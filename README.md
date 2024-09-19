@@ -19,14 +19,17 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 
 
-**Note: Now Copy the .zshrc file to your path**
+**Note: Now Copy the .zshrc file to your path and omz theme**
 
 ## Kitty
 
 - Download and install kitty from here : https://github.com/kovidgoyal/kitty/tags
 - Install the desired fonts :   DankMonoNerdFont
 - Copy all the config files to .config
+- For changing the font in kitty use ```kitten choose-fonts or kitty list-fonts```
 
+
+```
 ## Tmux
 
 - Install TPM using ```git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm```

@@ -139,7 +139,8 @@ export PYENV_ROOT="$HOME/.pyenv"
 [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
 
-alias pycache='find . | grep -E "(/__pycache__$|\.pyc$|\.pyo$)" | xargs rm -rf'
+alias pyc='find . | grep -E "(/__pycache__$|\.pyc$|\.pyo$)" | xargs rm -rf'
+alias dss='find . -name ".DS_Store" -type f -delete'
 
 # Set GOPATH to your preferred workspace location
 export GOPATH=$HOME/go
