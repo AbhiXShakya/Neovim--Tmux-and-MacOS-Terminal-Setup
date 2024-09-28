@@ -2,6 +2,22 @@
 
 Welcome to the ultimate guide for setting up a powerful development environment on MacOS using Neovim, Tmux, and Kitty terminal! This repository contains all the necessary instructions and configuration files to get you up and running with a beautiful, efficient, and feature-rich setup.
 
+## 📸 Screenshots
+
+Here are some screenshots of the setup in action:
+
+### Tmux Session
+![Tmux Session](images/Tmux%20and%20Kitty%20Macos%20Terminal%20Setup.png)
+*Tmux with multiple panes and custom status bar*
+
+### Neovim Editor
+![Neovim Setup](images/NeoVim%20with%20Tmux%20and%20Kitty.png)
+*Neovim with custom theme and plugins*
+
+### Telescope Neovim
+![Telescope Neovim](images/Telescope%20Neovim%20Tmux%20and%20Kitty%20Macos%20Terminal.png)
+*Telescope for finding and navigating files*
+
 ## 📋 Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
